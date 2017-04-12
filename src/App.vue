@@ -117,6 +117,7 @@
   h1, h2 {
       font-family: 'jaf-domus-titling-web', sans-serif;
       font-weight: normal;
+
   }
 
   ul {
