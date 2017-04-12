@@ -5,8 +5,8 @@
       <img class="col-xs-4 col-xs-offset-4 col-md-4 col-md-offset-4 logo" src="./assets/logo.png">
     </div>
     <div class="second row">
-      <h1></h1>
-      <h2>EcoFriendly Hospitality Solutions</h2>
+      <h1>EcoFriendly Hospitality Solutions</h1>
+      <h2></h2>
       <ul>
         <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
         <li><a href="https://forum.vuejs.org" target="_blank">Forum</a></li>
