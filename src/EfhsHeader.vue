@@ -14,7 +14,7 @@
             </ul>
         </div>
         <div class="third row">
-            <h2>Ecosystem</h2>
+            <h2>Vendors</h2>
             <p><div class="_form_1"></div></p>
             <ul>
                 <li><a href="http://router.vuejs.org/" target="_blank">vue-router</a></li>
@@ -24,6 +24,7 @@
         </div>
     </div>
 </template>
+
 <script>
     export default {
         data: function () {
@@ -32,5 +33,7 @@
         methods: {},
     }
 </script>
+
 <style scoped>
+	
 </style>
