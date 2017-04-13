@@ -17,7 +17,7 @@
             <h2>Vendors</h2>
             <p><div class="_form_1"></div></p>
             <ul>
-                <li><a href="http://router.vuejs.org/" target="_blank">vue-router</a></li>
+                <li><a href="http://router.vuejs.org/" target="_blank">Ceiba Web Development</a></li>
                 <li><a href="http://vuex.vuejs.org/" target="_blank">vuex</a></li>
                 <li><a href="http://vue-loader.vuejs.org/" target="_blank">vue-loader</a></li>
             </ul>
